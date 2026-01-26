@@ -1,7 +1,8 @@
 import PyPDF2
 
+
 # Open a PDF file
-with open('AndrewBadzioch.pdf', 'rb') as file:
+with open('otherStuff/AndrewBadzioch.pdf', 'rb') as file:
     reader = PyPDF2.PdfReader(file)
 
     # Get the number of pages
