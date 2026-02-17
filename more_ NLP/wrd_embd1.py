@@ -5,7 +5,7 @@ similarity metrics in machine learning and data science.
 - Euclidean (L2 norm): measures the straight line distance between two points.
 - Cityblock (Manhattan/L1 norm): measures distance as the sum of absolute differences
 across dimensions, similar to traveling along a grid.
-Cosine Similarity: measures the cosine of the angle between two vectors, focusing on
+- Cosine Similarity: measures the cosine of the angle between two vectors, focusing on
 orientation rather than magnitude.
 """
 
